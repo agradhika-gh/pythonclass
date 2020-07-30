@@ -1,0 +1,11 @@
+userName = input("Enter your Name: ")
+street = input("Enter your Street: ")
+address = input("Enter your Address: ")
+state = input("Enter your State: ")
+pin = input("Enter your Pin: ")
+
+print(f"My name is {userName}")
+print(f"Street is {street}")
+print(f"Address is {address}")
+print(f"State {state}")
+print(f"Pin {pin}")
